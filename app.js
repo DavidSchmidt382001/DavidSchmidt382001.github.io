@@ -49,7 +49,7 @@ function again(){
 var questions = [
     new Question("Ktoré z týchto intravenóznych anestetík nepatrí medzi barbiturátové?",["Thiopental","Metohexidal","Pentobarbital","Ketamín"],"Ketamín"),
     new Question("Aké množstvo propofolu sa používa na uvedenie do celkovej anestézy?",["1 mg/kg","2,5 mg/kg","9 mg/kg","tak kilo a pol"],"2,5 mg/kg"),
-    new Question("Ktorá kyselina je najsilnejšia na svete?",["H2S04","HCl","H20","HSbF6"],"HSbF6"),
+    new Question("Ktorá kyselina je najsilnejšia na svete?",["H2S04","HCl","H2O","HSbF6"],"HSbF6"),
     new Question("Aká je smrteľná dávka radiácie?",["tak asi 2 a pol deci","0,5 Sv","500 röntgenov počas 5 hodín","dinosaurus"],"500 röntgenov počas 5 hodín"),
     new Question("Koľko energie sa uvoľní z 1 gramu Uránu 235?",["10000 cal","75600 MJ","3 MWh","dosť na 4 žiarovky"],"75600 MJ"),
     new Question("Koľko žalúdkov má krava?",["1","3","4","ani jeden, netreba jej"],"4"),
